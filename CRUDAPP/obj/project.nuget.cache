@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCcNrhJiNO0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\CRUDAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dltls\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

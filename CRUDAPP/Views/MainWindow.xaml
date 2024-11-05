@@ -1,0 +1,22 @@
+﻿<Window x:Class="CRUDAPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUDAPP"
+        xmlns:Views="clr-namespace:CRUDAPP.Views"
+        xmlns:ViewModels="clr-namespace:CRUDAPP.ViewModels"
+        mc:Ignorable="d"
+        Title="CRUDMainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <ViewModels:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.8*"/>
+        </Grid.ColumnDefinitions>
+        <Views:CreateView Grid.Column="0" DataContext="{Binding CreateViewModel}"/>
+        <Views:ReadView Grid.Column="1" DataContext="{Binding ReadViewModel}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\viewmodels\\readviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\viewmodels\\readviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\views\\createview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\views\\createview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\views\\readview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\views\\readview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\helpers\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\helpers\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\models\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\models\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\dltls\\source\\repos\\crudapp\\crudapp\\common\\buttoneventname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2569-8FA2-4439-A81E-A07CCF1A8129}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\common\\buttoneventname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Helpers\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\Helpers\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Helpers\\CommandHandler.cs",
+              "RelativeToolTip": "CRUDAPP\\Helpers\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:53:29.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRUDAPP\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "CRUDAPP\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:48:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateView.xaml",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\CreateView.xaml",
+              "RelativeDocumentMoniker": "CRUDAPP\\Views\\CreateView.xaml",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\CreateView.xaml",
+              "RelativeToolTip": "CRUDAPP\\Views\\CreateView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:48:26.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadView.xaml",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\ReadView.xaml",
+              "RelativeDocumentMoniker": "CRUDAPP\\Views\\ReadView.xaml",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Views\\ReadView.xaml",
+              "RelativeToolTip": "CRUDAPP\\Views\\ReadView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:27:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Models\\UserInfoModel.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\Models\\UserInfoModel.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Models\\UserInfoModel.cs",
+              "RelativeToolTip": "CRUDAPP\\Models\\UserInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:19:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonEventName.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Common\\ButtonEventName.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\Common\\ButtonEventName.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\Common\\ButtonEventName.cs",
+              "RelativeToolTip": "CRUDAPP\\Common\\ButtonEventName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:12:52.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "CRUDAPP\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\ReadViewModel.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\ViewModels\\ReadViewModel.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\ReadViewModel.cs",
+              "RelativeToolTip": "CRUDAPP\\ViewModels\\ReadViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\CreateViewModel.cs",
+              "RelativeDocumentMoniker": "CRUDAPP\\ViewModels\\CreateViewModel.cs",
+              "ToolTip": "C:\\Users\\dltls\\source\\repos\\CRUDAPP\\CRUDAPP\\ViewModels\\CreateViewModel.cs",
+              "RelativeToolTip": "CRUDAPP\\ViewModels\\CreateViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA6wGAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:52:21.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
